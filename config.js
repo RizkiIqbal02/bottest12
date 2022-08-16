@@ -53,8 +53,8 @@ global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
+global.nomorbot = '62895385755748' //Nomor Bot mu
+global.nomorown = '6289513081384' //Nomormu
 global.namebot = 'Fangz BOT' //Nama bot mu
 global.nameown = 'Fangz Ganz' //Nama mu
 
